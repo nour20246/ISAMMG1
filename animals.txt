@@ -2,3 +2,4 @@ chat
 poisson
 oiseau
 chat
+panthère
